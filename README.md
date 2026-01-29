@@ -74,6 +74,8 @@ Run the application
 
 bash
 streamlit run src/main.py
+
+
 Additional Notes:
 Make sure Python 3.8 or higher is installed on your system
 
